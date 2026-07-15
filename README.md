@@ -84,7 +84,12 @@ The dashboard analyzes business performance across **sales, products, regions, a
 ---
 
 ## 📷 Dashboard Preview
-https://github.com/Virajashanmukhi/End-to-End-Sales-Analysis/blob/77cfc08a2671294130331247b0f13365ac38f7f5/powerbi-dashboard-screenshots/Customer_Analysis.png
+<img width="1297" height="722" alt="overview" src="https://github.com/user-attachments/assets/c19437b6-2668-4afc-af1b-82179770be2d" />
+<img width="1320" height="736" alt="Product_Analysis" src="https://github.com/user-attachments/assets/8d9d3da8-81d3-4971-8424-92d33c498ba5" />
+<img width="1300" height="731" alt="Regional Analysis" src="https://github.com/user-attachments/assets/9331d12d-fb71-4767-850d-2a9bbd2405c4" />
+<img width="1302" height="736" alt="Customer_Analysis" src="https://github.com/user-attachments/assets/338c8ef8-e343-4064-b739-e22d49fb533a" />
+
+
 
 
 
