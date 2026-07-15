@@ -1,4 +1,4 @@
-# 📊 End to End Sales Analysis
+# 📊 End to End Sales Analysis Project
 ## 🧠 Overview
 This project presents an end-to-end **Sales Analysis Dashboard** built using **Python, MySQL, and Power BI**.
 
