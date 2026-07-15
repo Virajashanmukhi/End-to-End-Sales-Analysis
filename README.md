@@ -9,7 +9,7 @@ It demonstrates the complete data workflow:
 
 The dashboard analyzes business performance across **sales, products, regions, and customers**.
 
----
+
 
 ## 🎯 Objectives
 - Clean and prepare raw data for analysis  
@@ -18,7 +18,7 @@ The dashboard analyzes business performance across **sales, products, regions, a
 - Evaluate regional sales distribution  
 - Understand customer behavior and value  
 
----
+
 
 ## 🛠️ Tools & Technologies
 - **Python (Pandas, NumPy)** → Data Cleaning  
@@ -26,7 +26,7 @@ The dashboard analyzes business performance across **sales, products, regions, a
 - **Power BI** → Data Visualization  
 - **Kaggle** → Dataset Source  
 
----
+
 
 ## 📂 Project Workflow
 
@@ -34,7 +34,7 @@ The dashboard analyzes business performance across **sales, products, regions, a
 - Dataset sourced from Kaggle  
 - Contains sales transactions, customer, product, and regional data  
 
----
+
 
 ### 2️⃣ Data Cleaning (Python)
 - Loaded dataset using Pandas  
@@ -43,7 +43,7 @@ The dashboard analyzes business performance across **sales, products, regions, a
 - Removed duplicate records  
 - Prepared clean dataset for analysis  
 
----
+
 
 ### 3️⃣ Data Analysis (MySQL)
 - Performed aggregations:
@@ -55,7 +55,7 @@ The dashboard analyzes business performance across **sales, products, regions, a
   - Regional performance  
   - Customer purchase behavior  
 
----
+
 
 ### 4️⃣ Data Visualization (Power BI)
 
@@ -81,7 +81,7 @@ The dashboard analyzes business performance across **sales, products, regions, a
 - Repeat Customer % by State  
 - Customer segmentation  
 
----
+
 
 ## 📷 Dashboard Preview
 <img width="1297" height="722" alt="overview" src="https://github.com/user-attachments/assets/c19437b6-2668-4afc-af1b-82179770be2d" />
@@ -93,7 +93,7 @@ The dashboard analyzes business performance across **sales, products, regions, a
 
 
 
----
+
 
 ## 📈 Key Highlights
 - Revenue is concentrated among a small group of products  
@@ -101,7 +101,7 @@ The dashboard analyzes business performance across **sales, products, regions, a
 - Customer value differs across segments  
 - Repeat customers contribute significantly to total revenue  
 
----
+
 
 ## 📊 Data Source
 Dataset used in this project is sourced from Kaggle:
@@ -110,7 +110,7 @@ Dataset used in this project is sourced from Kaggle:
 
 *This dataset is used for educational and portfolio purposes only.*
 
----
+
 
 ## 🚀 How to Use
 - View dashboard screenshots in the repository  
