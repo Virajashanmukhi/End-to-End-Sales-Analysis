@@ -110,11 +110,3 @@ Dataset used in this project is sourced from Kaggle:
 
 *This dataset is used for educational and portfolio purposes only.*
 
-
-
-## 🚀 How to Use
-- View dashboard screenshots in the repository  
-- Review Python notebook for data cleaning process  
-- Check SQL file for analysis queries  
-- Power BI file (.pbix) is not included  
-
