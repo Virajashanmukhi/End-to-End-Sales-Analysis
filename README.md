@@ -48,8 +48,8 @@ The dashboard analyzes business performance across **sales, products, regions, a
 ### 3️⃣ Data Analysis (MySQL)
 - Performed aggregations:
   - Total Sales  
-  - Total Orders  
-  - Customer Count  
+  - Total Orders 
+  - Customer Count 
 - Analyzed:
   - Top products  
   - Regional performance  
@@ -60,22 +60,30 @@ The dashboard analyzes business performance across **sales, products, regions, a
 ### 4️⃣ Data Visualization (Power BI)
 
 #### 🟢 Executive Overview
-- Total Sales, Orders, Customers, Avg Order Value  
+- Total Sales - 2.26M
+- Total Orders - 4922
+- Total Customers - 793
+- Avg Order Value  - 459.48
 - Sales trend over time  
 - Sales distribution by segment  
 
 #### 🔵 Product Analysis
-- Top 10 Products by Sales  
+- Avg Sales per Product - 1.22K
+- Top 10 Products by Sales
 - Bottom 10 Products by Sales  
 - Sales by Category/Sub-category  
 
 #### 🟣 Regional Analysis
+- Avg Sales per Customer - 2.85K
+- Sales % by Region - 1
 - Sales by Region and State  
 - Regional trends  
 - Orders distribution  
 
 #### 🟡 Customer Analysis
-- Customer Lifetime Value (CLV)  
+- Repeat Customers % - 0.98
+- Avg Spend per Customer - 459.48
+- Customer Lifetime Value (CLV)
 - Top Customers  
 - Avg Spend per Customer  
 - Repeat Customer % by State  
