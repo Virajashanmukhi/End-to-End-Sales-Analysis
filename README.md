@@ -60,10 +60,10 @@ The dashboard analyzes business performance across **sales, products, regions, a
 ### 4️⃣ Data Visualization (Power BI)
 
 #### 🟢 Executive Overview
-- Total Sales - 2.26M
-- Total Orders - 4922
-- Total Customers - 793
-- Avg Order Value  - 459.48
+- **Total Sales -** 2.26M
+- **Total Orders -** 4922
+- **Total Customers -** 793
+- **Avg Order Value  -** 459.48
 - Sales trend over time  
 - Sales distribution by segment  
 
@@ -74,15 +74,15 @@ The dashboard analyzes business performance across **sales, products, regions, a
 - Sales by Category/Sub-category  
 
 #### 🟣 Regional Analysis
-- Avg Sales per Customer - 2.85K
-- Sales % by Region - 1
+- **Avg Sales per Customer -** 2.85K
+- **Sales % by Region -** 1
 - Sales by Region and State  
 - Regional trends  
 - Orders distribution  
 
 #### 🟡 Customer Analysis
-- Repeat Customers % - 0.98
-- Avg Spend per Customer - 459.48
+- **Repeat Customers % -** 0.98
+- **Avg Spend per Customer -** 459.48
 - Customer Lifetime Value (CLV)
 - Top Customers  
 - Avg Spend per Customer  
