@@ -18,6 +18,13 @@ The dashboard analyzes business performance across **sales, products, regions, a
 - Evaluate regional sales distribution  
 - Understand customer behavior and value  
 
+## 📊 Data Source
+Dataset used in this project is sourced from Kaggle:
+
+👉 [https://www.kaggle.com/datasets/vivek468/superstore-dataset-final]
+
+*This dataset is used for educational and portfolio purposes only.*
+
 
 
 ## 🛠️ Tools & Technologies
@@ -60,29 +67,29 @@ The dashboard analyzes business performance across **sales, products, regions, a
 ### 4️⃣ Data Visualization (Power BI)
 
 #### 🟢 Executive Overview
-- **Total Sales -* 2.26M
-- **Total Orders -* 4922
-- **Total Customers -* 793
-- **Avg Order Value  -* 459.48
+- *Total Sales -* 2.26M
+- *Total Orders -* 4922
+- *Total Customers -* 793
+- *Avg Order Value  -* 459.48
 - Sales trend over time  
 - Sales distribution by segment  
 
 #### 🔵 Product Analysis
-- **Avg Sales per Product -* 1.22K
+- *Avg Sales per Product -* 1.22K
 - Top 10 Products by Sales
 - Bottom 10 Products by Sales  
 - Sales by Category/Sub-category  
 
 #### 🟣 Regional Analysis
-- **Avg Sales per Customer -* 2.85K
-- **Sales % by Region -* 1
+- *Avg Sales per Customer -* 2.85K
+- *Sales % by Region -* 1
 - Sales by Region and State  
 - Regional trends  
 - Orders distribution  
 
 #### 🟡 Customer Analysis
-- **Repeat Customers % -* 0.98
-- **Avg Spend per Customer -* 459.48
+- *Repeat Customers % -* 0.98
+- *Avg Spend per Customer -* 459.48
 - Customer Lifetime Value (CLV)
 - Top Customers  
 - Avg Spend per Customer  
@@ -92,14 +99,10 @@ The dashboard analyzes business performance across **sales, products, regions, a
 
 
 ## 📷 Dashboard Preview
-<img width="1297" height="722" alt="overview" src="https://github.com/user-attachments/assets/c19437b6-2668-4afc-af1b-82179770be2d" />
-<img width="1320" height="736" alt="Product_Analysis" src="https://github.com/user-attachments/assets/8d9d3da8-81d3-4971-8424-92d33c498ba5" />
-<img width="1300" height="731" alt="Regional Analysis" src="https://github.com/user-attachments/assets/9331d12d-fb71-4767-850d-2a9bbd2405c4" />
-<img width="1302" height="736" alt="Customer_Analysis" src="https://github.com/user-attachments/assets/338c8ef8-e343-4064-b739-e22d49fb533a" />
-
-
-
-
+<img width="1263" height="712" alt="Overview" src="https://github.com/user-attachments/assets/bef9bc95-4de6-4278-88e6-4f934450da15" />
+<img width="1263" height="720" alt="Product analysis" src="https://github.com/user-attachments/assets/3b303c4d-aacf-48b5-a76d-6adf3a6060bb" />
+<img width="1303" height="732" alt="Regional analysis" src="https://github.com/user-attachments/assets/cd6ec8b1-75c2-4388-b177-ad6ba0d67b38" />
+<img width="1267" height="717" alt="Customet analysis" src="https://github.com/user-attachments/assets/2bebc15f-ad52-4a66-9283-06d17a28e058" />
 
 
 
@@ -110,11 +113,4 @@ The dashboard analyzes business performance across **sales, products, regions, a
 - Repeat customers contribute significantly to total revenue  
 
 
-
-## 📊 Data Source
-Dataset used in this project is sourced from Kaggle:
-
-👉 [https://www.kaggle.com/datasets/vivek468/superstore-dataset-final]
-
-*This dataset is used for educational and portfolio purposes only.*
 
